@@ -5,12 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
 body {
   font-family: "Source Sans Pro", Arial, sans-serif;
   line-height: 1.8;
@@ -118,7 +113,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
@@ -131,7 +126,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover.fh5co-cover_2 {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
@@ -181,7 +176,7 @@ figure {
   border-bottom: 1px solid rgba(255, 255, 255, 0.7);
 }
 
-/* Superfish Override Menu */
+
 .sf-menu {
   margin: 0 !important;
 }
@@ -349,7 +344,7 @@ figure {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  /* Better Font Rendering =========== */
+  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   position: absolute;
@@ -372,7 +367,7 @@ figure {
   font-variant: normal;
   text-transform: none;
   line-height: 1;
-  /* Better Font Rendering =========== */
+
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   position: absolute;
